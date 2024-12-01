@@ -1,10 +1,10 @@
-# [Flask Templates](https://appseed.us/apps/flask/)
+# [Flask Templates](https://app-generator.dev/apps/flask/)
 
-A curated list with **[Flask Templates](https://appseed.us/apps/flask/)** generated and actively supported by AppSeed. For newcomers, **Flask** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
+A curated list with **[Flask Templates](https://app-generator.dev/apps/flask/)** actively supported by App-Generator Platform. For newcomers, **Flask** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **admin dashboard** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
 
 <br />
 
-## What is **[Flask](https://appseed.us/admin-dashboards/flask/)**
+## **[Getting Started with Flask](https://app-generator.dev/docs/technologies/flask/index.html)**
 
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. Classified as a microframework, Flask is written in Python and it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
