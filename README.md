@@ -20,7 +20,7 @@ $ pip install Flask
 
 ## [Datta Able Flask](https://app-generator.dev/product/datta-able/flask/)
 
-**Datta Able** Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
+**Datta Able** Bootstrap Lite is the most stylised Bootstrap Admin Template, among all other Lite/Free admin templates in the market. It comes with highly feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. 
 
 > NEW: **[Dynamic Datatables](https://flask-datta-demo.onrender.com/dynamic-dt) feature allows you to manage data without coding.** 
 
