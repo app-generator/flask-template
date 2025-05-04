@@ -33,8 +33,6 @@ The product is designed to deliver the best possible user experience with highly
   - `Start the project`
   - `Deploy on Render`
 
-<br />
-
 ### Features
 
 - Simple, Easy-to-Extend codebase, [Blueprint Pattern](https://app-generator.dev/blog/flask-blueprints-a-developers-guide/)
