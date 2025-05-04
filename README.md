@@ -1,6 +1,8 @@
 # [Flask Templates](https://app-generator.dev/product/?search=flask)
 
-A curated list with **[Flask Templates](https://app-generator.dev/product/?search=flask)** actively supported by **App-Generator** Platform. For newcomers, **Flask** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding his business. An **[admin dashboard](https://app-generator.dev/admin-dashboards/)** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
+A curated list with **[Flask Templates](https://app-generator.dev/product/?search=flask)** actively supported by **App-Generator** Platform. For newcomers, **Flask** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. A **dashboard** is a set of pages that are easy to read and offer information to the user in real-time regarding their business. 
+
+An **[admin dashboard](https://app-generator.dev/admin-dashboards/)** usually consists of graphical representations of the current status and trends within an organization. Having a well-designed dashboard will give you the possibility to act and make informed decisions based on the data that your business provides.
 
 <br />
 
