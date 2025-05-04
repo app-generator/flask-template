@@ -37,7 +37,7 @@ The product is designed to deliver the best possible user experience with highly
 
 - Simple, Easy-to-Extend codebase, [Blueprint Pattern](https://app-generator.dev/blog/flask-blueprints-a-developers-guide/)
 - [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
-- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap/index.html) 5 Styling
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap/index.html) Styling
 - Session-based Authentication, GitHub, Google
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
 - **Dynamic DataTables** - manage data without coding
